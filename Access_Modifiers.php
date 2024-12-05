@@ -18,6 +18,7 @@
     $mango = new Fruit();
     $mango->set_name('Mango'); // OK
     $mango->set_color('Yellow'); //Error
+    $mango->set_weight('1 KG'); //Error
     //$mango->name = "Mango";// OK
     //$mango->color  = "Yellow"; //Error
     //$mango->weight = "1 KG"; //Error
