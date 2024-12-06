@@ -13,6 +13,7 @@
             array("text"=>"Constructor","url"=>"Constructor.php"),
             array("text"=>"Destructor","url"=>"Destructor.php"),
             array("text"=>"Access_Modifiers","url"=>"Access_Modifiers.php"),
+            array("text"=>"Inheritance","url"=>"Inheritance.php"),
         );
     ?>
     <ul>
