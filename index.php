@@ -12,10 +12,11 @@
             array("text"=>"Class","url"=>"Class.php"),
             array("text"=>"Constructor","url"=>"Constructor.php"),
             array("text"=>"Destructor","url"=>"Destructor.php"),
-            array("text"=>"Access_Modifiers","url"=>"Access_Modifiers.php"),
+            array("text"=>"Access Modifiers","url"=>"Access_Modifiers.php"),
             array("text"=>"Inheritance","url"=>"Inheritance.php"),
             array("text"=>"Constants","url"=>"Constants.php"),
-            array("text"=>"Abstract_Classes","url"=>"Abstract_Classes.php"),
+            array("text"=>"Abstract Classes","url"=>"Abstract_Classes.php"),
+            array("text"=>"Interfaces","url"=>"Interfaces.php"),
         );
     ?>
     <ul>
