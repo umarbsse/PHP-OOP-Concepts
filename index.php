@@ -18,6 +18,8 @@
             array("text"=>"Abstract Classes","url"=>"Abstract_Classes.php"),
             array("text"=>"Interfaces","url"=>"Interfaces.php"),
             array("text"=>"Traits","url"=>"Traits.php"),
+            array("text"=>"Static Properties","url"=>"Static_Properties.php"),
+            array("text"=>"Namespaces","url"=>"Namespaces.php"),
         );
     ?>
     <ul>
