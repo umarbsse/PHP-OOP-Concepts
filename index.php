@@ -19,7 +19,7 @@
             array("text"=>"Interfaces","url"=>"Interfaces.php"),
             array("text"=>"Traits","url"=>"Traits.php"),
             array("text"=>"Static Properties","url"=>"Static_Properties.php"),
-            array("text"=>"Namespaces","url"=>"Namespaces.php"),
+            array("text"=>"Namespaces","url"=>"Namespace_test.php"),
         );
     ?>
     <ul>
