@@ -20,6 +20,7 @@
             array("text"=>"Traits","url"=>"Traits.php"),
             array("text"=>"Static Properties","url"=>"Static_Properties.php"),
             array("text"=>"Namespaces","url"=>"Namespace_test.php"),
+            array("text"=>"Iterables","url"=>"Iterables.php"),
         );
     ?>
     <ul>
